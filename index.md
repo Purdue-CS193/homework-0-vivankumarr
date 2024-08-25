@@ -1,4 +1,5 @@
 # Vivan's First CS193 Homework 💻</>
+## My Favorite Things About CS 193
 - CS 193 is entirely led by **student instructors** who have gone through the course themselves and have a thorough understanding of the **challenges that current students could potentially face**.
 - This course not only delves into **concepts in programming** such as terminal navigation and version control but also provides invaluable advice about **computer science interviews (behavioral and technical) and degree plans**.
 > _The programming skills that we will develop will be crucial for other computer science courses as well as our future software development careers._
